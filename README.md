@@ -33,7 +33,7 @@ The DrugBank dataset is uploaded at the METADDIEdata folder.
 
 
 ## Train
-
+Please put FSRM-DDIE and METADDIEdata in the same folder. 
 Before running the script file, please tune the hyperparameter.
 
 ```
