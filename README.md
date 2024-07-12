@@ -27,9 +27,10 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The data is available at: [https://drive.google.com/file/d/1K-5lQI2Dy5dyp2SrY8-QoaWGm0fgyVNP/view?usp=sharing](https://drive.google.com/file/d/1K-5lQI2Dy5dyp2SrY8-QoaWGm0fgyVNP/view?usp=sharing)
+The DengDDIE dataset is available at: [https://drive.google.com/file/d/1K-5lQI2Dy5dyp2SrY8-QoaWGm0fgyVNP/view?usp=sharing](https://drive.google.com/file/d/1K-5lQI2Dy5dyp2SrY8-QoaWGm0fgyVNP/view?usp=sharing)
 
-Events 1-175 are common events used as training dataset, events 176-204 are rare events and events 205-227 are rare events used as test dataset.
+The DrugBank dataset is uploaded at the METADDIEdata folder.
+
 
 ## Train
 
